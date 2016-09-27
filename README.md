@@ -36,7 +36,7 @@ After this in the same directory will be created a image file.
 
 ##3. Creating Virtual Machine and boot the image.
 
-![GitHub Logo](http://imgur.com/wkTv1cy)
-Format: ![Alt Text](url)
+![](http://imgur.com/wkTv1cy)
+Format: ![Alt Text](http://imgur.com/wkTv1cy)
 
 
