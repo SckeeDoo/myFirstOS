@@ -37,6 +37,6 @@ After this in the same directory will be created a image file.
 ##3. Creating Virtual Machine and boot the image.
 
 
-![image1]( http://imgur.com/wkTv1cy)
+![imag](http://imgur.com/wkTv1cy)
 
 
