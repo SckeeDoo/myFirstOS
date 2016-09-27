@@ -29,14 +29,14 @@ dw 0xAA55
 
 3. Lets move deeper.
 After compile this code in the same directory where you saved you .asm file, automatically will be created a .bin file. One important thing is to convert this .bin file into Image so we can boot it to our machine. To do this write this command in cmd:
-~
+~~~
 copy bootLoader.bin /b bootLoader.img
-~
+~~~
 After this in the same directory will be created a image file.
 
 ##3. Creating Virtual Machine and boot the image.
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/Desktop/1.png)
 Format: ![Alt Text](url)
 
 
