@@ -38,5 +38,6 @@ After this in the same directory will be created a image file.
 
 
 ![imag](http://i.imgur.com/wkTv1cy.png)
+![imag](http://imgur.com/cd7876fe-243a-46fc-82a3-a2064f60a041)
 
 
