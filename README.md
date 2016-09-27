@@ -39,5 +39,9 @@ After this in the same directory will be created a image file.
 
 ![imag](http://i.imgur.com/wkTv1cy.png)
 ![imag](http://i.imgur.com/3tbFF1z.png)
+![imag](http://i.imgur.com/EfKPiwr.png)
+
+
+It's done! Run your virtual machine and see the `goodest` OS eveeeeeeer!
 
 
