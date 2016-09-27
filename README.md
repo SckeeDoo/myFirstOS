@@ -1,15 +1,15 @@
 # Laboratoy Work 1 at Operation Systems
 
-This is a short tutotial for creating very first operation system.
+###This is a short tutotial for creating very first operation system.
 
-1. Getting some stuff installed.
+##1. Getting some stuff installed.
 
 First we need to install some tools:
 - Flat Assembly. This one helps us to compile and run .asm files.
 - Oracle Virtual Box. Using Virtual Box we can create on our computer a virtual machine that eventually will run our operation system.
 - Also I used Windows 10 operation system.
 
-2. Lets write some code in assembly.
+##2. Lets write some code in assembly.
 
 ~~~
 mov ax, 9ch
